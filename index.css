@@ -109,6 +109,10 @@
     padding-bottom: 1rem;
   }
   @media screen and (max-width: 460px) {
+    .comment{
+      width: 100%;
+    }
+
     .wrapper {
       width: 100%;
     }
