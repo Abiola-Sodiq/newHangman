@@ -26,13 +26,10 @@
   #image{
     width: 3rem;
   }
-  .mainContainer{
-    height: 100vh;
-    display: grid;
-    grid-template-rows: 5rem 1fr;
-    background: var(--primary-color)
-  }
+
   .main{
+    background: var(--primary-color);
+    height: 100vh;
     display: flex;
     flex-direction:column;
     gap: 3rem;
