@@ -28,30 +28,7 @@ const wordList = [
     word: "bugs",
     hint: "Issues or errors in a computer program that aka beans.",
   },
-  {
-    word: "jola",
-    hint: "Team Intel member",
-  },
-  {
-    word: "ayodeji",
-    hint: "Team Intel Manager",
-  },
-  {
-    word: "bolanle",
-    hint: "Team Intel member",
-  },
-  {
-    word: "shakur",
-    hint: "Team Intel member",
-  },
-  {
-    word: "abiola",
-    hint: "Team Intel member",
-  },
-  {
-    word: "ibrahim",
-    hint: "Team Intel Lead",
-  },
+ 
   {
     word: "chess",
     hint: "A strategic board game played between two players.",
@@ -76,14 +53,7 @@ const wordList = [
     word: "google",
     hint: "famous search engine",
   },
-  {
-    word: "phillip",
-    hint: "sail facilitator that says: do you understand?",
-  },
-  {
-    word: "sail",
-    hint: "a tech facility in ikorodu",
-  },
+
   {
     word: "flute",
     hint: "a musical instrument",
@@ -92,14 +62,7 @@ const wordList = [
     word: "bitcoin",
     hint: "related to cryptocurrency",
   },
-  {
-    word: "matthew",
-    hint: "sail facilitator",
-  },
-  {
-    word: "john",
-    hint: "sail facilitator",
-  },
+
   {
     word: "email",
     hint: "related to exchanging message",
